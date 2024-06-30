@@ -6,28 +6,41 @@
     "rewards": [
       {
         "type": "variable",
-        "id": "361",
-        "amount": "1000"
+        "id": 361,
+        "amount": 10130027
       },
       {
         "type": "variable",
-        "id": "362",
-        "amount": "10130027"
+        "id": 362,
+        "amount": 30140737
+      },
+      {
+        "type": "item",
+        "id": 27,
+        "amount": 1
+      },
+      {
+        "type": "armor",
+        "id": 737,
+        "amount": 1
       },
       {
         "type": "variable",
-        "id": "363",
-        "amount": "30140737"
+        "id": 366,
+        "amount": 1000
       },
       {
         "type": "switch",
         "id": 97,
         "amount": true
+      },
+      {
+        "type": "variable",
+        "id": 367,
+        "amount": 1
       }
     ]
-  }
-]
-[
+  },
   {
     "code": "GOLDGIFT",
     "startDate": "2000-01-01T00:00Z",
@@ -35,8 +48,13 @@
     "rewards": [
       {
         "type": "variable",
-        "id": "361",
-        "amount": "5000"
+        "id": 366,
+        "amount": 2500
+      },
+      {
+        "type": "variable",
+        "id": 366,
+        "amount": 2500
       },
       {
         "type": "switch",
