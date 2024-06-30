@@ -1,0 +1,19 @@
+[
+  {
+    "code": "WELCOMEHAPPY",
+    "startDate": "2024-07-01T00:00Z",
+    "endDate": "2124-07-01T00:00Z",
+    "rewards": [
+      {
+        "type": "item",
+        "id": 183,
+        "amount": 1
+      },
+      {
+        "type": "armor",
+        "id": 737,
+        "amount": 1
+      }
+    ]
+  }
+]
