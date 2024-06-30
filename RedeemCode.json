@@ -25,11 +25,6 @@
         "amount": 1
       },
       {
-        "type": "variable",
-        "id": 366,
-        "amount": 1000
-      },
-      {
         "type": "switch",
         "id": 97,
         "amount": true
@@ -49,17 +44,12 @@
       {
         "type": "variable",
         "id": 366,
-        "amount": 2500
+        "amount": 5000
       },
       {
         "type": "variable",
         "id": 366,
         "amount": 2500
-      },
-      {
-        "type": "switch",
-        "id": 97,
-        "amount": true
       }
     ]
   }
