@@ -1,18 +1,23 @@
 [
   {
     "code": "WELCOME",
-    "startDate": "2024-07-01T00:00Z",
-    "endDate": "2124-07-01T00:00Z",
+    "startDate": "2000-01-01T00:00Z",
+    "endDate": "2199-12-31T23:59Z",
     "rewards": [
       {
-        "type": "item",
-        "id": 183,
-        "amount": 1
+        "type": "variable",
+        "id": "361",
+        "amount": "5000"
       },
       {
-        "type": "armor",
-        "id": 737,
-        "amount": 1
+        "type": "variable",
+        "id": "362",
+        "amount": "10130027"
+      },
+      {
+        "type": "variable",
+        "id": "363",
+        "amount": "30140737"
       },
       {
         "type": "switch",
