@@ -7,7 +7,7 @@
       {
         "type": "variable",
         "id": "361",
-        "amount": "5000"
+        "amount": "1000"
       },
       {
         "type": "variable",
@@ -18,6 +18,23 @@
         "type": "variable",
         "id": "363",
         "amount": "30140737"
+      },
+      {
+        "type": "switch",
+        "id": 97,
+        "amount": true
+      }
+    ]
+  }
+  {
+    "code": "GOLDGIFT",
+    "startDate": "2000-01-01T00:00Z",
+    "endDate": "2199-12-31T23:59Z",
+    "rewards": [
+      {
+        "type": "variable",
+        "id": "361",
+        "amount": "5000"
       },
       {
         "type": "switch",
