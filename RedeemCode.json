@@ -30,8 +30,8 @@
         "amount": true
       },
       {
-        "type": "variable",
-        "id": 367,
+        "type": "item",
+        "id": 320,
         "amount": 1
       }
     ]
@@ -50,6 +50,43 @@
         "type": "switch",
         "id": 97,
         "amount": true
+      }
+    ]
+  },
+  {
+    "code": "SECRET",
+    "startDate": "2000-01-01T00:00Z",
+    "endDate": "2199-12-31T23:59Z",
+    "rewards": [
+      {
+        "type": "variable",
+        "id": 361,
+        "amount": 10330011
+      },
+      {
+        "type": "variable",
+        "id": 362,
+        "amount": 10330016
+      },
+      {
+        "type": "item",
+        "id": 11,
+        "amount": 3
+      },
+      {
+        "type": "item",
+        "id": 16,
+        "amount": 3
+      },
+      {
+        "type": "switch",
+        "id": 97,
+        "amount": true
+      },
+      {
+        "type": "item",
+        "id": 320,
+        "amount": 1
       }
     ]
   }
