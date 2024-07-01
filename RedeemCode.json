@@ -10,14 +10,14 @@
         "amount": 10130027
       },
       {
-        "type": "variable",
-        "id": 362,
-        "amount": 30140737
-      },
-      {
         "type": "item",
         "id": 27,
         "amount": 1
+      },
+      {
+        "type": "variable",
+        "id": 362,
+        "amount": 30140737
       },
       {
         "type": "armor",
@@ -43,13 +43,23 @@
     "rewards": [
       {
         "type": "variable",
-        "id": 366,
-        "amount": 5000
+        "id": 361,
+        "amount": 10130183
+      },
+      {
+        "type": "item",
+        "id": 183,
+        "amount": 1
       },
       {
         "type": "switch",
         "id": 97,
         "amount": true
+      },
+      {
+        "type": "item",
+        "id": 320,
+        "amount": 1
       }
     ]
   },
@@ -64,14 +74,14 @@
         "amount": 10330011
       },
       {
-        "type": "variable",
-        "id": 362,
-        "amount": 10330016
-      },
-      {
         "type": "item",
         "id": 11,
         "amount": 3
+      },
+      {
+        "type": "variable",
+        "id": 362,
+        "amount": 10330016
       },
       {
         "type": "item",
