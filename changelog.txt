@@ -1,5 +1,4 @@
 \tl{HelpUpdate}
-
 \tl{HelpUpdate.Log}
 
 -한국어-
