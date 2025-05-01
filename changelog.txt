@@ -1,14 +1,2 @@
 \tl{HelpUpdate}
 \tl{HelpUpdate.Log}
-
--한국어-
-언어 설정이 추가되었습니다.
-단, 스토리 텍스트는 아직 한국어만 지원합니다.
-
--English-
-Added Language settings.
-However, the story text is still only supported in Korean.
-
--日本語-
-文字言語設定が追加されました。
-ただし、ストーリーはまだ韓国語のみ対応しています。
