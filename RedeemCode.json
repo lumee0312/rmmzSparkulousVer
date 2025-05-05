@@ -16,7 +16,7 @@
     "startDate": "2000-01-01T00:00Z",
     "endDate": "2199-12-31T23:59Z",
     "rewards": [
-      { "type": "gold", "id": 0,  "amount": 999 },
+      { "type": "gold", "id": 0,  "amount": 999 }
     ]
   },
   {
@@ -24,7 +24,7 @@
     "startDate": "2000-01-01T00:00Z",
     "endDate": "2199-12-31T23:59Z",
     "rewards": [
-      { "type": "exp", "id": 0, "amount": 250 },
+      { "type": "exp", "id": 0, "amount": 250 }
     ]
   },
   {
