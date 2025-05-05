@@ -31,10 +31,7 @@
     "startDate": "2000-01-01T00:00Z",
     "endDate": "2199-12-31T23:59Z",
     "rewards": [
-      { "type": "variable", "id": 361, "amount": 10130027 },
-      { "type": "item", "id": 27, "amount": 1 },
-      { "type": "variable", "id": 362, "amount": 30140737 },
-      { "type": "armor", "id": 737, "amount": 1 }
+      { "type": "item", "id": 291, "amount": 10 }
     ]
   }
 ]
