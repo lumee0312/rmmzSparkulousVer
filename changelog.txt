@@ -1,2 +1,1 @@
-\tl{HelpUpdate}
-\tl{HelpUpdate.Log}
+
